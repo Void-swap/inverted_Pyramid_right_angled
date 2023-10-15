@@ -1,0 +1,1 @@
+# inverted_Pyramid_right_angled
