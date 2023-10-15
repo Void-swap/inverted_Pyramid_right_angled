@@ -1,5 +1,4 @@
-# inverted_Pyramid_right_angle
-
+# inverted_Pyramid_right_angled
 
 # About problem
 The right-angled pyramid pattern consists of rows and columns, with each row representing a level or layer of the pyramid.
